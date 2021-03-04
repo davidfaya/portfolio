@@ -1,4 +1,7 @@
 # portfolio
 Showcase of coding and technology usage
 
-Under development.
+Currently working on a social media app using MERNG stack
+https://github.com/davidfaya/social-app.git
+
+
