@@ -1,7 +1,7 @@
 # portfolio
 Showcase of coding and technology usage
 
-Currently working on a social media app using MERNG stack
+A Persona portfolio web app build with React
 
 COMING SOON----
 👀 https://davidfaya.com
